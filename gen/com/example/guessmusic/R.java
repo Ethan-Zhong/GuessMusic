@@ -105,22 +105,25 @@ public final class R {
         public static final int pass_share_sel=0x7f02004b;
         public static final int play_button_icon=0x7f02004c;
         public static final int splash_ht=0x7f02004d;
+        public static final int word_btn_icon=0x7f02004e;
     }
     public static final class id {
-        public static final int action_settings=0x7f090008;
-        public static final int btn_bar_add_coins=0x7f090006;
-        public static final int btn_bar_back=0x7f090004;
+        public static final int action_settings=0x7f090009;
+        public static final int btn_bar_add_coins=0x7f090007;
+        public static final int btn_bar_back=0x7f090005;
         public static final int btn_play_start=0x7f090002;
         public static final int imageView1=0x7f090001;
         public static final int imageView2=0x7f090003;
-        public static final int layout_bar_coin=0x7f090005;
+        public static final int layout_bar_coin=0x7f090006;
         public static final int layout_pan=0x7f090000;
-        public static final int tet_bar_coins=0x7f090007;
+        public static final int tet_bar_coins=0x7f090008;
+        public static final int wordButton=0x7f090004;
     }
     public static final class layout {
         public static final int activity_main=0x7f030000;
         public static final int pan_layout=0x7f030001;
-        public static final int top_bar=0x7f030002;
+        public static final int self_grid_ui_btn=0x7f030002;
+        public static final int top_bar=0x7f030003;
     }
     public static final class menu {
         public static final int main=0x7f080000;
