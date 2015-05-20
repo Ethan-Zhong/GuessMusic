@@ -12,8 +12,12 @@
         android:orientation="vertical" >
 
         <include layout="@layout/top_bar" />
-        
-        <include layout="@layout/pan_layout"/>
+
+        <include layout="@layout/pan_layout" />
+
+        <include
+            layout="@layout/name_select"
+            android:paddingBottom="10dp" />
     </LinearLayout>
 
 </FrameLayout>

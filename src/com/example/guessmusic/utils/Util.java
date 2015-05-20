@@ -10,7 +10,7 @@ public class Util {
 
 		LayoutInflater inflater = (LayoutInflater) context
 				.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-		
+
 		View view = inflater.inflate(layoutID, null);
 
 		return view;
